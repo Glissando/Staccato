@@ -1,8 +1,8 @@
 ﻿
 function main()
-    Debug.log("Hello, world!")
-    Loader.loadScript("game","game")
-    State.add("game","game")
-    State.start("game")
+    debug.log("Hello, world!")
+    loader.loadScript("game","game")
+    state.add("game","game")
+    state.start("game")
     
 end

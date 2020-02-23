@@ -142,3 +142,4 @@ C:\Users\coda1\source\repos\CrosswordSolver\CrosswordSolver\bin\Debug\MonoGame.F
 C:\Users\coda1\source\repos\CrosswordSolver\CrosswordSolver\bin\Debug\MonoGame.Forms.DX.xml
 C:\Users\coda1\source\repos\CrosswordSolver\CrosswordSolver\bin\Debug\MaterialSkin.dll
 C:\Users\coda1\source\repos\CrosswordSolver\CrosswordSolver\obj\Debug\CrosswordSolver.Form2.resources
+C:\Users\coda1\source\repos\CrosswordSolver\CrosswordSolver\bin\Debug\LunarFonts.dll
