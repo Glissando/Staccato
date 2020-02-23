@@ -47,6 +47,11 @@ namespace CrosswordSolver
             return sprite;
         }
 
+        public void SetTitle(string title)
+        {
+
+        }
+
         public void Close()
         {
             
